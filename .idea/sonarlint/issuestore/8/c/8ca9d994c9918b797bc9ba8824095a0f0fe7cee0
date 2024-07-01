@@ -1,0 +1,15 @@
+
+’
+java:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤²Ñì8·ñªò†2J$20d70550-d775-46e5-8c89-ea33b006dcaa
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8·ñªò†2J$e61bd234-0f92-4c1d-aff6-47cf1f0bc236
+
+java:S2095V"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¸µ¬ò†2J$8554a5e8-e5c4-4357-b23c-255239ccd6ed
+
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8·ñªò†2J$5cca8bf5-ded1-408c-8e44-bb119259e4be
+—
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ú§¹¸üÿÿÿÿ8µñªò†2J$8cf12338-65ce-4f48-afc3-8d1c8d54437c
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8»ñªò†2J$d882f1f7-a7f6-49e3-bd54-050451edd085
+g
+java:S6905C"Don't use the query "SELECT *".(Ü±¾Ÿÿÿÿÿÿ8×ñªò†2J$b4db7d2a-271e-45a4-833e-ec0f72d100dc
