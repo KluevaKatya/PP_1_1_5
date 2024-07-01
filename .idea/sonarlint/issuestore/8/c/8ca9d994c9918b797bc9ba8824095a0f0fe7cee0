@@ -1,15 +1,15 @@
 
-
-java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8·ñªò†2J$4f486839-988b-4108-ab1f-a74e1226a171
 —
-java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ú§¹¸üÿÿÿÿ8µñªò†2J$0d7cb67d-6ef1-491a-aaf0-e12bc661be86
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ú§¹¸üÿÿÿÿ8µñªò†2J$2f688a4c-20fc-4cee-9e2e-1c4e449cc883
+
+java:S2095V"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¸µ¬ò†2J$91616c14-87b2-4794-a906-81107cd5c689
+
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8·ñªò†2J$8e0a1f44-ce03-4c86-ad4a-d2b91ca6c87e
 ’
-java:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤²Ñì8·ñªò†2J$1ef1a333-a5b1-4644-9dec-7de58c1097d0
+java:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤²Ñì8·ñªò†2J$b7a12ad2-4604-4e48-ad34-3ee3b5264890
 
-java:S2095V"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¸µ¬ò†2J$8a2c8249-8053-4950-9de4-269424aee097
-
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8·ñªò†2J$ce6f51fa-ecf2-444b-a5e8-bf885fcfd834
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8·ñªò†2J$cb36a90f-1935-4753-a882-3e9bb52ec268
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8»ñªò†2J$90fef1ab-8679-4a8e-9b1c-66e41affea00
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š8»ñªò†2J$a776db4f-fe03-4063-aed1-56e55a73e89a
 g
-java:S6905C"Don't use the query "SELECT *".(Ü±¾Ÿÿÿÿÿÿ8×ñªò†2J$23fce240-02aa-4f2a-9e1d-7c322f88a37d
+java:S6905C"Don't use the query "SELECT *".(Ü±¾Ÿÿÿÿÿÿ8×ñªò†2J$d2759f2e-5a78-4f1e-8fc3-738b1112e735
