@@ -1,7 +1,15 @@
 
 }
-java:S1118	":Add a private constructor to hide the implicit public one.(×¼­Æ8‡û½é†2J$03e9ff3e-5927-436e-90d3-f7cb32a4188a
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8¨çœ‡2J$308a2034-9916-414c-971f-8ab5df807cc9
 y
-java:S6437"6Revoke and change this password, as it is compromised.(†±àÜ8Ëû½é†2J$9d14c3f5-356a-4949-9ed3-72db17fc0cf2
-t
-java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8Ëû½é†2J$f277b5ce-9f6c-4715-9455-3e5bf0595ed5
+java:S6437"6Revoke and change this password, as it is compromised.(†±àÜ8±çœ‡2J$d5e3dec3-9446-4483-b7f0-9b3ed771544e
+
+java:S3252)"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(©™İÆ8¶çœ‡2J$b6b9ec95-6bc9-4218-83f1-beb5cfa0df2c
+
+java:S3252*"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(ßùÁŞøÿÿÿÿ8·çœ‡2J$5e4e396c-72ef-4233-a578-284dfbed1e81
+
+java:S3252+"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Î®°úùÿÿÿÿ8¹çœ‡2J$14558235-eef3-4909-8742-4f560e8169ab
+‹
+java:S3252,"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(öéùŠ8»çœ‡2J$8921d0ef-0170-493a-bf58-87fa4a66a7d9
+˜
+java:S3252-"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(®ÇĞîıÿÿÿÿ8óâØ¾‡2J$ac0ca60a-d917-49d9-83ca-12c7a5da1982
